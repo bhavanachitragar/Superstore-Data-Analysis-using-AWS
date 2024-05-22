@@ -9,7 +9,10 @@ This project builds a pipeline to analyze Superstore sales data using the power 
 - S3
 - AWS Glue
 - AWS Athena
-- AWS Quicksight
+- AWS 
+
+
+![AWS drawio](https://github.com/bhavanachitragar/Superstore-Data-Analysis-using-AWS/assets/91766461/66695b30-3442-47b6-96f2-0037bf070ede)
 
 
 
