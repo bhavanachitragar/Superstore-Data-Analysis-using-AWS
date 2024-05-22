@@ -11,6 +11,8 @@ This project builds a pipeline to analyze Superstore sales data using the power 
 - AWS Athena
 - AWS Quicksight
 
+- 
+
 ![Architecture drawio](https://github.com/bhavanachitragar/Superstore-Data-Analysis-using-AWS/assets/91766461/3b0ffa0f-f409-4193-a490-56402a751396)
 
 
