@@ -11,12 +11,7 @@ This project builds a pipeline to analyze Superstore sales data using the power 
 - AWS Athena
 - AWS 
 
-
-![AWS drawio](https://github.com/bhavanachitragar/Superstore-Data-Analysis-using-AWS/assets/91766461/66695b30-3442-47b6-96f2-0037bf070ede)
-
-
-
-![Architecture drawio](https://github.com/bhavanachitragar/Superstore-Data-Analysis-using-AWS/assets/91766461/3b0ffa0f-f409-4193-a490-56402a751396)
+![Screenshot 2024-05-22 205016](https://github.com/bhavanachitragar/Superstore-Data-Analysis-using-AWS/assets/91766461/f654fcc3-24cb-40fc-beaf-f4535514ddd1)
 
 
 ### 1. IAM (Identity and Access Management): 
